@@ -1,0 +1,15 @@
+textarea{
+    display: block;
+}
+#post-Id{
+    margin-top: 10px;
+    padding: 10px 15px;
+    background: bisque;
+    color: black;
+    cursor: pointer;
+    font-weight: bold;
+}
+#more_events{
+    display: block;
+    margin-top: 20px;
+}
